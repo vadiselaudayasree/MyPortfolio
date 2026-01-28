@@ -16,7 +16,8 @@ It is built with **HTML, CSS, and JavaScript**, and designed to be interactive, 
 
 ## 🚀 Deployment
 The site is hosted using **GitHub Pages**.  
-Live link: [https://vadiselaudayasree.github.io/Portfolio](https://vadiselaudayasree.github.io/Portfolio)
+Live link: [https://vadiselaudayasree.github.io/MyPortfolio/](https://vadiselaudayasree.github.io/MyPortfolio/)
 
 ## 📂 File Structure
+
 
